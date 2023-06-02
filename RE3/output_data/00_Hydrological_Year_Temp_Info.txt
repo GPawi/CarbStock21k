@@ -1,0 +1,2 @@
+### This folder (‘Hydrological_Year_Temp’) contains files with temperature data in degree Celsius for each sediment core from 21 998 years BP to -40 years BP from the TraCE-21ka dataset 
+### The temperature data in this folder are mean annual temperature values for each hydrological year from 01. October to 30. September. For instance, the hydrological year of year 2010 starts on 01. October 2009 and ends on 30. September 2010.

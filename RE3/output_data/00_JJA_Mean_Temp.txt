@@ -1,0 +1,2 @@
+### This folder (‘JJA_Mean_Temp’) contains files with temperature data in degree Celsius for each sediment core from 21 999 years BP to -40 years BP from the TraCE-21ka dataset 
+### The temperature data in this folder are mean summer temperature values for each year from June to August. The temperature data is the mean from all three summer months.

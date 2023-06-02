@@ -1,0 +1,67 @@
+coreid,latitude,longitude,waterdepth,corelength,sitename,catchmentarea,lakeextent,lakedepth,vegetationzone,climatezone,laketype
+16-KP-03-L10,65.945006,166.310082999999,55,1.26, Nutenvut,49.6,9.18,60, Forest Tundra, ET, Glacial lake
+16-KP-04-L19,67.7887999999999,168.7384,31,3, Rauchuagytgyn,214.5,6.1,37, Shrub Tundra, ET, Glacial lake
+2008-3,52.8526,78.626683,8,4.04, Bolshoe Yarovoye,687.519,66.7,7.4, Grassland, BSk, Glacial lake
+BC2008,54.9624,77.9595,5.6,3.25, Chany,25548.3,1966.57,6, Deciduous Forest, Dfb, Glacial lake
+BL02-2007,55.683183,76.7992969999999,3.2,3.6, Bolshaya Lozhka,0.7,0.35,3.6, Deciduous Forest, Dfb, Aeolian lake
+BN2016-1,50.0107199999999,93.9745,29,1.12999999999999, Bayan Nuur,730,32,29.2, No Vegetation, BSk, Tectonic lake
+Chupa-8,66.276667,32.6911109999999,4.2,4.65, nameless, , 0.16 - UNCONFIRMED, , Coniferous Forest, Dfc, 
+Co1309,60.9889399999999,30.69086,111,22.7, Ladoga,282000,17882,230, Coniferous Forest, Dfb, Glacial lake
+Co1412,65.29415,135.759232999999,14.7,6.06, Emanda,179,33.1,15, Coniferous Forest, Dwd, Glacial lake
+CON01-603-5,53.9545999999999,108.9137,130,3.9, Baikal,571000,31500,1650, Deciduous Forest, Dwb, Tectonic lake
+Dolgoe2012,63.75,37.303417,4.8,4.65, Dolgoe Ozero, ,0.22, , Coniferous Forest, Dfc, Shoreline lake
+E4-2,60.73115,151.893566999999,19.64,5.46, Elikchan-4,38.2,3.01,23, Deciduous Forest, Dfc, Tectonic lake
+EN18208,67.3402999999999,168.29567,19,10.76, Ilirney,1214,30,44, Forest Tundra, Dfc, Glacial lake
+EN18218,67.7893799999999,168.73352,29.5,6.53, Rauchuagytgyn,214.5,6.1,37, Shrub Tundra, ET, Glacial lake
+ESM-1,52.0269499999999,101.059079999999,4.5,3.71, East Sayan Mountains Lake,3.91,0.13,7, Deciduous Forest, Dwc, Glacial lake
+Kamyshovoe2012,54.37675,22.7131669999999,2.29999999999999,9.78999999999999, Kamyshovoe,23.5,0.24,3.8, Deciduous Forest, Dfb, 
+KAS-1,45.01247,147.7281,2.9,8.92, Kasatka,10.941,1.028,5, Deciduous Forest, Dfc, Shoreline lake
+Korzhino2010,65.3902779999999,33.566389,1.9,3.2, Korzhino,553.9,1.77,2, Coniferous Forest, Dfc, Shoreline lake
+Kupal,67.6652359999999,33.632277,4.5,1.31, Kupalnoe,0,0.0276,4.8, Coniferous Forest, Dfc, Glacial lake
+Ladoga82,60.985067,31.1496999999999,68,1.27, Ladoga,282000,17882,230, Coniferous Forest, Dfb, Glacial lake
+LENDERY180-4,63.4477219999999,31.229417,1.5,2.4, nameless, ,0.17, , Coniferous Forest, Dfc, Glacial lake
+LENDERY192,63.28956,31.09364,1.5,1.8, nameless, ,0.00899999999999999, , Coniferous Forest, Dfc, Glacial lake
+LENDERY200-1,63.2734999999999,31.38334,1,1.7, Khienyarvi,7,0.39, , Coniferous Forest, Dfc, Glacial lake
+LENDERY203-3,63.2311109999999,31.517111,1.5,2.4, nameless, ,0.017, , Coniferous Forest, Dfc, Glacial lake
+LS-9,71.8769,127.0722,4,3.68, Dolgoe Ozero,2.197,0.84,4, Shrub Tundra, Dfc, Thermokarst lake
+Maloye-1,45.0844239999999,147.695375,2,15.4, Maloye,8.93299999999999,0.376,3, Deciduous Forest, Dfc, Shoreline lake
+MC2006,54.5521999999999,77.9958,1.4,3.6, Malyye Chany,21176.3,204.03,3, Deciduous Forest, Dfb, Glacial lake
+MT2,64.827489,38.101739,4,2, Murakanskoe,27.5,16.7399999999999,5.2, Coniferous Forest, Dfc, 
+Muan2018,62.082306,31.493639,0.8,2.4, Muannonyarvi, ,0.15, , Coniferous Forest, Dfc, Glacial lake
+Nsuz,60.0562892,30.3010653999999,3.3,3, Nizhnee Suzdalskoe,1,0.46,4.5, Coniferous Forest, Dfb, Glacial lake
+Okun2018,61.844444,33.140833,2.2,5.3, Okunozero,1.1,0.49, , Coniferous Forest, Dfc, Glacial lake
+OSIN,67.5699999999999,32.64,4.5,1.25, Osinovoe, , , , , , 
+PER3,50.0405,155.395166999999,1.8,6.96, Pernatoye,2.6,0.47,1.8, Deciduous Forest, Dfc, Shoreline lake
+PG1111,69.548,90.2109999999999,52.2,11.12, Lama,6210,446,254, Forest Tundra, Dfc, Tectonic lake
+PG1205,72.72333,-22.465,21,9.85, Basalt,20,2.29999999999999,22, Tundra, ET, Glacial lake
+PG1214,70.5949999999999,-21.535,63,2.96, Raffles,1.6,0.3,63, Tundra, ET, Glacial lake
+PG1228,74.4729999999999,98.6359999999999,108,22.4, Lake Levinson-Lessing,515,25,108, Tundra, Dwb, Glacial lake
+PG1238,79.11833,95.125,17.2,10.38, Changeable,90.372,10,18.5, Polar Desert, ET, Glacial lake
+PG1341,69.555,90.26833,66,18.85, Lama,6210,446,254, Forest Tundra, Dfc, Tectonic lake
+PG1351,67.5066599999999,172.13833,175,12.91, El'gygytgyn,293,110,175, Shrub Tundra, ET, Meteorite lake
+PG1437,68.250611,65.7893329999999,21,11.8, Lyadhej-To,19.8159999999999,1.87,26, Tundra, Dfc, Glacial lake
+PG1746,62.0519019999999,129.480061,0.7,3.8, Temje,0,0.32,0.75, Coniferous Forest, Dfd, Thermokarst lake
+PG1755,65.272,126.74633,7.8,9.35, Billyakh,133.3,23,25, Deciduous Forest, Dfd, Glacial lake
+PG1756,65.2955,126.77516,7.9,4.57, Billyakh,133.3,23,25, Deciduous Forest, Dfd, Glacial lake
+PG1856,56.82267,160.040269999999,20.5,4.33, Two-Yurts,168.12,12,26, Deciduous Forest, Dfc, Glacial lake
+PG1857,56.8167499999999,160.06778,25,3.32, Two-Yurts,168.12,12,26, Deciduous Forest, Dfc, Glacial lake
+PG1858,56.82666667,160.115,2.5,1, Sigrid,0,0.0259999999999999,5, Deciduous Forest, Dfc, Glacial lake
+PG1890,53.25314,157.754185,4.5,0.95, Sokoch,3.75,0.75,7, Deciduous Forest, ET, Glacial lake
+PG1972,73.1967099999999,124.6208,4.7,1.08, 09-Tik-03 / Lake Bezrybnoe,2.633,0.75,5.3, Tundra, Dfd, Thermokarst lake
+PG1975,71.2943499999999,125.550479999999,4.8,1.37, 09-Tik-05 / Elgene-Kyuele,3.02599999999999,1.209,10.5, Forest Tundra, Dfd, Thermokarst lake
+PG1982,70.69737,125.07643,4.7,1.28, 09-Tik-09,2.367,0.383,6.3, Forest Tundra, Dfd, Thermokarst lake
+PG1984,69.4048499999999,123.82792,2.4,1.2, 09-Tik-13 / Sysy-Kyuele,2.90899999999999,1,2.5, Coniferous Forest, Dfd, Thermokarst lake
+PG2023,69.6283669999999,123.649783,2.9,7.1, Ozero Kyutyunda,35.9339999999999,4.9,3.5, Coniferous Forest, Dfd, Thermokarst lake
+PG2130,56.0593999999999,130.948399999999,4.5,1.78, Banya Toko,2.98499999999999,0.576999999999999,4.5, Deciduous Forest, Dwc, Glacial lake
+PG2133,56.0508,130.8795,26,3.75, Bolshoe Toko,933.519,83.2429999999999,72.5, Deciduous Forest, Dwc, Glacial lake
+PG2135,61.9744829999999,129.38083,1.7,6.51, Ulakhan Chabyda,7.963,2.1,2, Coniferous Forest, Dfd, Thermokarst lake
+PG2201,61.958483,129.408333,2,6.8, Malaya Chabyda,16.1069999999999,0.18,3, Coniferous Forest, Dfd, Thermokarst lake
+PG2208,56.05615,130.867799999999,68.3,3.67, Bolshoe Toko,933.519,83.2429999999999,72.5, Deciduous Forest, Dwc, Glacial lake
+PG2360,64.4879499999999,122.72229,1.5,2.31, Bety,48.6869999999999,0.66,1.5, Coniferous Forest, Dfd, Thermokarst lake
+PG2367,64.5525549999999,122.729301,16,1.26, Liunkju,0,0.0709999999999999,16, Coniferous Forest, Dfd, Thermokarst lake
+Tel2006,51.716667,87.65,90,1.94, Teletskoye,20400,230,330, Deciduous Forest, Dfb, Tectonic lake
+Teriberka17,69.176972,35.0815559999999,2.5,3.84, nameless, , , , , , 
+TKT-3,45.85575,149.799383,11.25,7.2, Tokotan,38.1,0.561,13, Deciduous Forest, Dfc, Shoreline lake
+TL-1-1,70.3714999999999,87.5557,8.15,2.2, Middendorf,0.495,0.0259999999999999,11.5, Shrub Tundra, Dfc, Glacial lake
+UKhau2015,63.55373,33.3376999999999,2.5,3.5, Khaugilampi, , , , Coniferous Forest, Dfc, Glacial lake
+ZAV,61.01127,29.65819,3.8,4.5, Bolshoye Zavetnoye,5.6,1.2,8, Coniferous Forest, Dfc, Glacial lake
